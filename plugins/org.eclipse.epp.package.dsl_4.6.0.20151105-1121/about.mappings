@@ -1,0 +1,8 @@
+# about.mappings
+# contains fill-ins for about.properties
+# java.io.Properties file (ISO 8859-1 with "\" escapes)
+# This file does not need to be translated.
+
+0=20151201-1539
+1=Neon Milestone 3 (4.6.0M3)
+featureVersion=@featureVersion@

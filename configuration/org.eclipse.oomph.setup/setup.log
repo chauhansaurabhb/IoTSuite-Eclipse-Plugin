@@ -1,0 +1,56 @@
+[2016-01-16 19:45:10] Executing startup tasks
+[2016-01-16 19:45:11] Product self.product.version
+[2016-01-16 19:45:11] Bundle org.eclipse.oomph.setup 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2016-01-16 19:45:11] Bundle org.eclipse.oomph.setup.core 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2016-01-16 19:45:11] Bundle org.eclipse.oomph.setup.p2 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2016-01-16 19:45:11] Performing Preference /instance/org.eclipse.ui.editors/lineNumberRuler = true
+[2016-01-16 19:45:11] 
+[2016-01-18 13:37:37] Executing startup tasks
+[2016-01-18 13:37:38] Product self.product.version
+[2016-01-18 13:37:38] Bundle org.eclipse.oomph.setup 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2016-01-18 13:37:38] Bundle org.eclipse.oomph.setup.core 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2016-01-18 13:37:38] Bundle org.eclipse.oomph.setup.p2 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2016-01-18 13:37:38] Performing Preference /instance/org.eclipse.ui.editors/lineNumberRuler = true
+[2016-01-18 13:37:38] 
+[2016-01-20 21:09:12] Executing startup tasks
+[2016-01-20 21:09:12] Product self.product.version
+[2016-01-20 21:09:12] Bundle org.eclipse.oomph.setup 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2016-01-20 21:09:12] Bundle org.eclipse.oomph.setup.core 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2016-01-20 21:09:12] Bundle org.eclipse.oomph.setup.p2 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2016-01-20 21:09:12] Performing Preference /instance/org.eclipse.ui.editors/lineNumberRuler = true
+[2016-01-20 21:09:12] 
+[2016-01-22 00:03:43] Executing startup tasks
+[2016-01-22 00:03:44] Product self.product.version
+[2016-01-22 00:03:44] Bundle org.eclipse.oomph.setup 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2016-01-22 00:03:44] Bundle org.eclipse.oomph.setup.core 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2016-01-22 00:03:44] Bundle org.eclipse.oomph.setup.p2 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2016-01-22 00:03:44] Performing Preference /instance/org.eclipse.ui.editors/lineNumberRuler = true
+[2016-01-22 00:03:44] 
+[2016-01-22 00:08:28] Executing startup tasks
+[2016-01-22 00:08:28] Product self.product.version
+[2016-01-22 00:08:28] Bundle org.eclipse.oomph.setup 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2016-01-22 00:08:28] Bundle org.eclipse.oomph.setup.core 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2016-01-22 00:08:28] Bundle org.eclipse.oomph.setup.p2 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2016-01-22 00:08:28] Performing Preference /instance/org.eclipse.ui.editors/lineNumberRuler = true
+[2016-01-22 00:08:28] 
+[2016-01-24 00:15:04] Executing startup tasks
+[2016-01-24 00:15:04] Product self.product.version
+[2016-01-24 00:15:04] Bundle org.eclipse.oomph.setup 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2016-01-24 00:15:04] Bundle org.eclipse.oomph.setup.core 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2016-01-24 00:15:04] Bundle org.eclipse.oomph.setup.p2 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2016-01-24 00:15:04] Performing Preference /instance/org.eclipse.ui.editors/lineNumberRuler = true
+[2016-01-24 00:15:04] 
+[2016-01-24 11:46:41] Executing startup tasks
+[2016-01-24 11:46:42] Product self.product.version
+[2016-01-24 11:46:42] Bundle org.eclipse.oomph.setup 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2016-01-24 11:46:42] Bundle org.eclipse.oomph.setup.core 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2016-01-24 11:46:42] Bundle org.eclipse.oomph.setup.p2 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2016-01-24 11:46:42] Performing Preference /instance/org.eclipse.ui.editors/lineNumberRuler = true
+[2016-01-24 11:46:42] 
+[2016-04-13 07:59:59] Executing startup tasks
+[2016-04-13 08:00:01] Product self.product.version
+[2016-04-13 08:00:01] Bundle org.eclipse.oomph.setup 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2016-04-13 08:00:01] Bundle org.eclipse.oomph.setup.core 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2016-04-13 08:00:01] Bundle org.eclipse.oomph.setup.p2 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2016-04-13 08:00:02] Performing Preference /instance/org.eclipse.ui.editors/lineNumberRuler = true
+[2016-04-13 08:00:03] 

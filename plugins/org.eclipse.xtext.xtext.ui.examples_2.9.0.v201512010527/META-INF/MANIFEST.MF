@@ -1,0 +1,79 @@
+Manifest-Version: 1.0
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-SymbolicName: org.eclipse.xtext.xtext.ui.examples;singleton:=tr
+ ue
+Require-Bundle: org.eclipse.ui;bundle-version="3.6.0",org.eclipse.core
+ .runtime;bundle-version="3.6.0",org.eclipse.emf.common.ui;bundle-vers
+ ion="2.9.0",org.eclipse.core.resources;bundle-version="3.6.0",org.ecl
+ ipse.ui.ide;bundle-version="3.6.0"
+Export-Package: org.eclipse.xtext.xtext.ui.examples;x-internal:=true
+Bundle-Version: 2.9.0.v201512010527
+Ant-Version: Apache Ant 1.8.4
+Bundle-Vendor: %providerName
+Bundle-ActivationPolicy: lazy
+Bundle-Name: %pluginName
+Created-By: 1.6.0_45-b06 (Sun Microsystems Inc.)
+Bundle-ManifestVersion: 2
+
+Name: contents/org.eclipse.xtext.example.domainmodel.ui.zip
+SHA1-Digest: uOLavs3TYXygzeu0Bo9JUdf5Ydo=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: contents/org.eclipse.xtext.example.arithmetics.ide.zip
+SHA1-Digest: jbn2AlOEt7GvKIB4fZ+p8fAOyeI=
+
+Name: contents/org.eclipse.xtext.example.domainmodel.zip
+SHA1-Digest: MB6Mvle9mLEeIUeS38qGE9+eZ8M=
+
+Name: org/eclipse/xtext/xtext/ui/examples/ExternalEditorAwareExampleIn
+ stallerWizard.class
+SHA1-Digest: 6IX0LWVZMXftunkCtXDrjKbiqB8=
+
+Name: contents/org.eclipse.xtext.example.arithmetics.zip
+SHA1-Digest: EGg81J8UEJhZMqujs6WPzaaOqEA=
+
+Name: contents/xbase.tutorial.zip
+SHA1-Digest: cDKIzmoG+i4nuTuSTSXySyd6p4w=
+
+Name: contents/org.eclipse.xtext.example.homeautomation.ui.zip
+SHA1-Digest: TZtOCwUdOUGmEyMTqWCmDmZWh5g=
+
+Name: about.html
+SHA1-Digest: m//+sZd+LYcO5OY/bjEiZVm0dk0=
+
+Name: plugin.properties
+SHA1-Digest: OSzqMosSi1IvTaX3XegZ4CqKVdk=
+
+Name: contents/org.eclipse.xtext.example.homeautomation.tests.zip
+SHA1-Digest: AZSjPsWd/JQpd8IkFXdvSQhDCfk=
+
+Name: contents/org.eclipse.xtext.example.fowlerdsl.zip
+SHA1-Digest: aMjCfTu7x+xJA3kx0epGmJodAU8=
+
+Name: contents/org.eclipse.xtext.example.arithmetics.ui.tests.zip
+SHA1-Digest: mSUrf2q9/7ddwPfwKTsvSowejhU=
+
+Name: icons/genproject.gif
+SHA1-Digest: 7DBQbuPJeMj4q8O9NG6OFZcjU2I=
+
+Name: contents/org.eclipse.xtext.example.fowlerdsl.ui.zip
+SHA1-Digest: 0I0cietY4/b+LJG6PxZrlmjokqs=
+
+Name: contents/org.eclipse.xtext.example.domainmodel.tests.zip
+SHA1-Digest: gLT1/o8oI7IZ5eMmfgjPsUsybKM=
+
+Name: plugin.xml
+SHA1-Digest: XzrqhN6ARkGT56krMIQMAu8AGhQ=
+
+Name: contents/org.eclipse.xtext.example.homeautomation.zip
+SHA1-Digest: Yt0ZA4iWbqO9dDHR3DL50yoAyQU=
+
+Name: contents/org.eclipse.xtext.example.arithmetics.tests.zip
+SHA1-Digest: T+TK9LkLc0zzySO7ehlmZlHBvuA=
+
+Name: contents/org.eclipse.xtext.example.arithmetics.ui.zip
+SHA1-Digest: 2Gm1hF4wYkTt0pb0XZs2pJlncVI=
+

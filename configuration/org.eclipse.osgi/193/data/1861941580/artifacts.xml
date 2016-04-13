@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<repository name='C:\IoTSuite-Eclipse-Plugin\.eclipseextension' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1.0.0'>
+  <properties size='3'>
+    <property name='p2.timestamp' value='1460518485160'/>
+    <property name='org.eclipse.update.site.policy' value='USER-EXCLUDE'/>
+    <property name='org.eclipse.update.site.list' value=''/>
+  </properties>
+  <mappings size='3'>
+    <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
+    <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
+    <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
+  </mappings>
+  <artifacts size='5'>
+    <artifact classifier='osgi.bundle' id='org.xtext.example.mydsl.ide' version='1.0.0.201602081455'>
+      <properties size='2'>
+        <property name='artifact.size' value='104005'/>
+        <property name='download.size' value='104005'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/IoTSuite-Eclipse-Plugin/plugins/org.xtext.example.mydsl.ide_1.0.0.201602081455.jar'/>
+        <property name='file.name' value='C:\IoTSuite-Eclipse-Plugin\plugins\org.xtext.example.mydsl.ide_1.0.0.201602081455.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.xtext.example.mydsl' version='1.0.0.201602081455'>
+      <properties size='2'>
+        <property name='artifact.size' value='2965377'/>
+        <property name='download.size' value='2965377'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/IoTSuite-Eclipse-Plugin/plugins/org.xtext.example.mydsl_1.0.0.201602081455.jar'/>
+        <property name='file.name' value='C:\IoTSuite-Eclipse-Plugin\plugins\org.xtext.example.mydsl_1.0.0.201602081455.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.xtext.example.mydsl.tests' version='1.0.0.201602081455'>
+      <properties size='2'>
+        <property name='artifact.size' value='7274'/>
+        <property name='download.size' value='7274'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/IoTSuite-Eclipse-Plugin/plugins/org.xtext.example.mydsl.tests_1.0.0.201602081455.jar'/>
+        <property name='file.name' value='C:\IoTSuite-Eclipse-Plugin\plugins\org.xtext.example.mydsl.tests_1.0.0.201602081455.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.xtext.example.mydsl.ui.tests' version='1.0.0.201602081455'>
+      <properties size='2'>
+        <property name='artifact.size' value='2046'/>
+        <property name='download.size' value='2046'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/IoTSuite-Eclipse-Plugin/plugins/org.xtext.example.mydsl.ui.tests_1.0.0.201602081455.jar'/>
+        <property name='file.name' value='C:\IoTSuite-Eclipse-Plugin\plugins\org.xtext.example.mydsl.ui.tests_1.0.0.201602081455.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.xtext.example.mydsl.ui' version='1.0.0.201602081455'>
+      <properties size='2'>
+        <property name='artifact.size' value='62692'/>
+        <property name='download.size' value='62692'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/IoTSuite-Eclipse-Plugin/plugins/org.xtext.example.mydsl.ui_1.0.0.201602081455.jar'/>
+        <property name='file.name' value='C:\IoTSuite-Eclipse-Plugin\plugins\org.xtext.example.mydsl.ui_1.0.0.201602081455.jar'/>
+      </repositoryProperties>
+    </artifact>
+  </artifacts>
+</repository>
